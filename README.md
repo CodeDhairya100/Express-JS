@@ -1,2 +1,3 @@
 # Express-JS
-Full express BackEnd course.
+Full express BackEnd in MERN.
+
