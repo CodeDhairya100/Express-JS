@@ -1,0 +1,28 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/src/index.js",
+    "dev": "nodemon backend/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDhairya100/Express-JS.git"
+  },
+  "author": "Dhairya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeDhairya100/Express-JS/issues"
+  },
+  "homepage": "https://github.com/CodeDhairya100/Express-JS#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
